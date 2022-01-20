@@ -1,2 +1,0 @@
-# Working-with-Pandas
-This is an introductory lab on Python/Pandas. The purpose of this lab is to learn how to use some basic commands in Pandas in your data science projects. We will also do some data analysis with a real dataset of babynames. This lab is presented as a Jupyter notebook. Please execute the cells (SHIFT-ENTER) that are already completed and then your task is to fill in the code between ### BEGIN SOLUTION ### and ### END SOLUTION ###
